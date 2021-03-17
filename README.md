@@ -8,7 +8,7 @@
     An Aspiring <b> Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></p>
 <br>
 
-//<img   src="https://raw.githubusercontent.com/yashvi2001/yashvi2001/master/1608474784684.jpg" />
+<img   src="" />
 
 
 ###   Languages and Tools
