@@ -1,14 +1,14 @@
-<h1 align="center">𝐇𝐞𝐥𝐥𝐨, GEEKS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, GEEKS <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px" height="30px">!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
   </h1>
   </h1>
 
 <p align="center">
   <em>
     I am Sanchit Hajela, student of <b>KIIT University</b>, Bhubneshwar. <br>
-    An Aspiring <b> Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"></p>
+    An Aspiring <b> Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"></p>
 <br>
 
-&nbsp;&nbsp;<img   src="https://raw.githubusercontent.com/xanxit/readme/main/mernst.png" align ="center"/>
+&nbsp;&nbsp;<img   src="https://raw.githubusercontent.com/xanxit/readme/main/mernst.png" align ="center" height="30px"/>
 
 
 ###   Languages and Tools
