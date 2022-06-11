@@ -8,7 +8,7 @@
     An Aspiring <b> Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"></p>
 <br>
 
-&nbsp;&nbsp;<img   src="https://raw.githubusercontent.com/xanxit/readme/main/mernst.png" align ="center" height="30px"/>
+&nbsp;&nbsp;<img   src="https://raw.githubusercontent.com/xanxit/readme/main/mernst.png" align ="center"/>
 
 
 ###   Languages and Tools
