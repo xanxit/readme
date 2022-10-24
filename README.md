@@ -5,7 +5,7 @@
 <p align="center">
   <em>
     I am Sanchit Hajela, student of <b>KIIT University</b>, Bhubneshwar. <br>
-    An Aspiring <b> Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"></p>
+     <b> Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" height="30px"></p>
 <br>
 
 <div align="center"><img src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align ="center"/></div>
