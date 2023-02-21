@@ -34,7 +34,7 @@
 
 <div  >
  
- ### LETS GET CONNECTED:-
+<!--  ### LETS GET CONNECTED:- -->
  
    <a href="https://twitter.com/san_xit">
     <img align="left" alt="Sanchit Hajela | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
