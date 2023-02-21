@@ -11,7 +11,7 @@
 <div align="center"><img src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" align ="center"/></div>
 
 
-###   Languages and Tools
+<!-- ###   Languages and Tools
 
 
   
@@ -28,7 +28,7 @@
 <img align="left" alt="SQL" width="26px" src="https://i.imgur.com/UwvNkfN.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Go" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
-
+ -->
 
 <br/>
 
