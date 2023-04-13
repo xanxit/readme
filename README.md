@@ -32,20 +32,7 @@
 
 <br/>
 
-<div  >
+<div>
  
-<!--  ### LETS GET CONNECTED:- -->
  
-   <a href="https://twitter.com/san_xit">
-    <img align="left" alt="Sanchit Hajela | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
-</a> 
-
-<a href="https://www.linkedin.com/in/sanchit-hajela-025950188/">
-    <img align="left" alt="Sanchit Hajela | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
- 
-  <a href="https://www.instagram.com/san._.xit/">
-    <img align="left" alt="Sanchit Hajela | Instagram" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
-  </a
-
 </div>
